@@ -1,8 +1,10 @@
 # Pitch Accent Detection improves Pretrained Automatic Speech Recognition
 
-Pitch Accent Detection Improves Pretrained Automatic Speech Recognition
+This repository contains the code accompanying our INTERSPEECH 2025 paper:
 
-This repository contains the code and resources for the paper titled “Pitch Accent Detection improves Pretrained Automatic Speech Recognition,” accepted at Interspeech 2025.
+**Title**: Enhancing Robot Instruction Understanding and Disambiguation via Speech Prosody
+**Authors**: David Sasu and Natalie Schluter
+**Affiliations**: IT University of Copenhagen
 
 ## Abstract
 
