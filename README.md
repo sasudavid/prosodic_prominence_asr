@@ -2,9 +2,9 @@
 
 This repository contains the code accompanying our INTERSPEECH 2025 paper:
 
-**Title**: Enhancing Robot Instruction Understanding and Disambiguation via Speech Prosody
-**Authors**: David Sasu and Natalie Schluter
-**Affiliations**: IT University of Copenhagen
+**Title:** Enhancing Robot Instruction Understanding and Disambiguation via Speech Prosody
+**Authors:** David Sasu and Natalie Schluter
+**Affiliations:** IT University of Copenhagen
 
 ## Abstract
 
