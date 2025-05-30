@@ -1,4 +1,4 @@
-# Pitch Accent Detection improves Pretrained Automatic Speech Recognition
+# Pitch Accent Detection improves Pretrained Automatic Speech Recognition [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15557237.svg)](https://doi.org/10.5281/zenodo.15557237)
 
 This repository contains the code accompanying our INTERSPEECH 2025 paper:
 
