@@ -68,6 +68,7 @@ class Wav2Vec2CombinedASR(Wav2Vec2ForCTC):
             pitch = pitch.reshape(pitch.shape[0], pitch.shape[1],1)
         tup = (pitch.to(device, dtype=torch.float),hidden_states)
         x_ = torch.cat(tup,2)
+        #NB: if you choose to remove pitch information you must edit the input dimensions of the LSTM model as well.
         x_lstm, (_, _) = self.lstm(x_)
         prosody_vectors = self.extra_prosody_layer(x_lstm)
         normalized_prosody_vectors = self.normalize(prosody_vectors)
